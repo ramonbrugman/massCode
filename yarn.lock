@@ -4705,10 +4705,10 @@ helper-js@^1.0.47, helper-js@^1.2.0, helper-js@^1.3.7, helper-js@^1.4.5:
   resolved "https://registry.yarnpkg.com/helper-js/-/helper-js-1.4.12.tgz#ae66e145e56963189227047d4c69ecef4f61f068"
   integrity sha512-LcZ/z/eA/f/OMea9XYVBLRYv3jYQKDOQyI5m6uB80DyWwte4OLGFewYtguoDu+APFQKVoWs++ODGSYwzZmTSkg==
 
-highlight.js@^9.18.1:
-  version "9.18.1"
-  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-9.18.1.tgz#ed21aa001fe6252bb10a3d76d47573c6539fe13c"
-  integrity sha512-OrVKYz70LHsnCgmbXctv/bfuvntIKDz177h0Co37DQ5jamGZLVmoCVMtjMtNZY3X9DrCcKfklHPNeA0uPZhSJg==
+highlight.js@^10.4.1:
+  version "10.4.1"
+  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-10.4.1.tgz#d48fbcf4a9971c4361b3f95f302747afe19dbad0"
+  integrity sha512-yR5lWvNz7c85OhVAEAeFhVCc/GV4C30Fjzc/rCP0aCWzc1UUOPUk55dK/qdwTZHBvMZo+eZ2jpk62ndX/xMFlg==
 
 highlight.js@^9.3.0:
   version "9.17.1"
